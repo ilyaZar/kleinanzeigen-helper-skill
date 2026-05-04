@@ -10,12 +10,20 @@ Use this skill when the user wants help preparing, verifying, publishing,
 updating, deleting, downloading, or extending Kleinanzeigen listings through
 their already configured local `kleinanzeigen-bot` setup.
 
+## Requirements / Install
+
+1. Install
+   [`kleinanzeigen-bot`](https://github.com/Second-Hand-Friends/kleinanzeigen-bot#installation):
+   bot engine driving
+2. Install [`kleinclaw`](https://github.com/ilyaZar/kleinclaw): dedicated plugin
+   for your OpenClaw agent
+
 ## Load Details
 
 - Read [Prerequisites / Install](references/install.md) when the user asks how
   to install, enable, configure, or troubleshoot missing KleinClaw tools.
-- Read [Non-negotiables](references/non-negotiables.md) before any
-  Kleinanzeigen operation.
+- Read [Non-negotiables](references/non-negotiables.md) before any Kleinanzeigen
+  operation.
 - Read [Workflow](references/workflow.md) before verifying, publishing,
   updating, deleting, downloading, or extending listings.
 - Read [Ad Authoring](references/ad-authoring.md) before creating or editing
