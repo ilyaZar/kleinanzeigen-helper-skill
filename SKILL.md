@@ -1,5 +1,5 @@
 ---
-name: kleinanzeigen-helper-skill
+name: kleinanzeigen-helper
 description: Manage Kleinanzeigen listings with the required KleinClaw plugin.
 license: MIT-0
 ---
@@ -14,8 +14,8 @@ their already configured local `kleinanzeigen-bot` setup.
 
 1. Install
    [`kleinanzeigen-bot`](https://github.com/Second-Hand-Friends/kleinanzeigen-bot#installation):
-   bot engine driving
-2. Install [`kleinclaw`](https://github.com/ilyaZar/kleinclaw): dedicated plugin
+   bot engine
+2. Install [`kleinclaw`](https://clawhub.ai/plugins/kleinclaw): dedicated plugin
    for your OpenClaw agent
 
 ## Load Details
