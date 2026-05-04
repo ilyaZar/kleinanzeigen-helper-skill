@@ -15,8 +15,8 @@ their already configured local `kleinanzeigen-bot` setup.
 1. Install
    [`kleinanzeigen-bot`](https://github.com/Second-Hand-Friends/kleinanzeigen-bot#installation):
    bot engine
-2. Install [`kleinclaw`](https://clawhub.ai/plugins/kleinclaw): dedicated plugin
-   for your OpenClaw agent
+2. Install [`kleinclaw`](https://clawhub.ai/plugins/kleinclaw): plugin for your
+   OpenClaw agent
 
 ## Load Details
 
